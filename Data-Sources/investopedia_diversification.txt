@@ -1,0 +1,233 @@
+﻿The Importance of Diversification
+What Is Diversification in Investing?
+Diversification is the process of spreading investments across different asset classes, industries, and geographic regions to reduce the overall risk of an investment portfolio. The idea is that by holding a variety of investments, the poor performance of any one investment potentially can be offset by the better performance of another, leading to a more consistent overall return. Diversification thus aims to include assets that are not highly correlated with one another.
+
+
+Most investment professionals agree that, although it does not guarantee against loss, diversification is the most important component of reaching long-range financial goals while minimizing risk. Here, we look at why this is true and how to accomplish diversification in your portfolio.
+
+
+Key Takeaways
+Diversification reduces risk by investing in vehicles that span different financial instruments, industries, and other categories.
+Unsystematic risk can be mitigated through diversification, while systematic or market risk is generally unavoidable.
+Investors can choose to pick their own assets to invest in; otherwise, they can select an index fund that comprises a variety of companies and holdings.
+Balancing a diversified portfolio may be complicated and expensive, and it may come with lower rewards because the risk is mitigated.
+A diversified portfolio may lead to better opportunities, enjoyment in researching new assets, and higher risk-adjusted returns.
+Understanding Diversification in Investing
+Let's say you have an investment portfolio that only contains airline stocks. Share prices of all those stocks potentially will drop in tandem after industry-specific bad news, such as an indefinite pilots strike that will ultimately cancel flights. This means your portfolio will experience a noticeable drop in value. You can counterbalance these stocks with a few railway stocks, so only part of your portfolio will be affected. In fact, there is a very good chance that the railroad stock prices will rise, as passengers look for alternative modes of transportation.
+
+
+This action of proactively balancing your portfolio across different investments is at the heart of diversification. Instead of attempting to maximize your returns by investing in the most profitable companies, you enact a defensive position when diversifying. The strategy of diversification is actively promoted by the U.S. Securities and Exchange Commission.
+1
+ Here are the main aspects of diversification:
+
+
+Diversifying Across Sectors and Industries
+The example above of buying railroad stocks to protect against detrimental changes to the airline industry is diversifying within a sector or industry. In this case, an investor is interested in investing in the transportation sector and holds multiple positions within one industry.
+
+
+You could diversify even further because of the risks associated with these companies. That's because anything that affects travel in general will hurt both industries. This means you should consider diversifying outside the industry. For example, if consumers are less likely to travel, they may be more likely to stay home and consume streaming services (thereby boosting technology or media companies).
+
+
+Diversifying Across Companies
+Risk doesn't necessarily have to be specific to an industry—it's often present at a company-specific level. Imagine a company with a revolutionary leader. Should that leader leave the company or pass away, the company will be negatively affected. Risk specific to a company can occur from legislation, acts of nature, or consumer preference. As such, you might have your favorite airline that you personally choose to fly with, but if you're a strong believer in the future of air travel, consider diversifying by acquiring shares of a different airline provider as well.
+
+
+Diversifying Across Asset Classes
+So far, we've only discussed stocks. However, different asset classes act differently based on broad macroeconomic conditions. For example, if the Federal Reserve raises interest rates, equity markets may still perform well due to the relative strength of the economy. However, rising rates push down bond prices. Therefore, investors often consider splitting their portfolios across a few different asset classes to protect against widespread financial risk.
+
+
+More modern portfolio theory suggests also pulling in alternative assets, an emerging asset class that goes beyond investing in stocks and bonds. With the rise of digital technology and accessibility, investors can now easily put money into real estate, cryptocurrency, commodities, precious metals, and other assets. Again, each of these classes have different levers that dictate what makes them successful.
+
+
+Important
+Broad market indexes such as the S&P 500 are composed of hundreds of companies, varying in size, industries, and operational strategy. Investing in these types of indexes is a simple way to diversify.
+
+
+Diversifying Across Borders
+Political, geopolitical, and international risks have worldwide impacts, especially regarding the policies of larger nations. However, different countries operating with different monetary policy will provide different opportunities and risk levels. For instance, imagine how a legislative change to U.S. corporate tax rates could negatively impact all entities within the U.S. For this reason, consider broadening your portfolio to include companies and holdings across different physical locations.
+
+
+Diversifying Across Time Frames
+When considering investments, think about the time frame in which they operate. For instance, a long-term bond often has a higher rate of return due to higher inherent risk, while a short-term investment is more liquid and yields less. An airline manufacturer may take several years to work through a single operating cycle, while your favorite retailer might post thousands of transactions using inventory acquired same-day. Real estate holdings may be locked into long-term lease agreements. In general, assets with longer time frames carry more risk but often may deliver higher returns to compensate for that risk.
+
+
+How Many Stocks You Should Have
+There is no magic number of stocks to hold to avoid losses. In addition, it is impossible to reduce all risks in a portfolio; there will always be some inherent risk to investing that can't be diversified away.
+
+
+There is discussion over how many stocks are needed to reduce risk while maintaining a high return. The most conventional view argues that an investor can achieve optimal diversification with only 15 to 20 stocks spread across various industries. Other views contest that 30 different stocks are the ideal number of holdings. The Financial Industry Regulatory Authority (FINRA) states that diversification is specific to each individual and recommends considering the decision after consulting with an investment professional or using your own judgment.
+2
+
+
+For investors who might not be able to afford holdings across 30 different companies or for traders who want to avoid the transaction fees of buying that many stocks, index funds are a great choice. By holding this single fund, you gain partial ownership in all underlying assets of the index, which often comprises dozens (if not hundreds) of different companies, securities, and holdings.
+
+
+Different Types of Risk
+Investors confront two main types of risk when they invest. The first is known as systematic or market risk. This type of risk is associated with every company. Common causes include inflation rates, exchange rates, political instability, war, and interest rates. This category of risk isn't specific to any company or industry, and it can't be eliminated or reduced through diversification. It is a form of risk that all investors must accept.
+
+
+The second type of risk is diversifiable or unsystematic. This risk is specific to a company, industry, market, economy, or country. The most common sources of unsystematic risk are business risk and financial risk. Because it is diversifiable, investors can reduce their exposure through diversification. Thus, the aim is to invest in various assets so they won't all be affected the same way by market events.
+
+
+Fast Fact
+Systematic risk affects the market in its entirety, not just one particular investment vehicle or industry.
+
+
+Benefits of Diversification
+Diversification attempts to protect against losses. This is especially important for older investors who need to preserve wealth toward the end of their professional careers. It is also important for retirees or individuals approaching retirement that may no longer have stable income; if they are relying on their portfolio to cover living expenses, it is crucial to consider risk over returns.
+
+
+Diversification is thought to increase the risk-adjusted returns of a portfolio. This means investors earn greater returns when you factor in the risk they are taking. Investors may be more likely to make more money through riskier investments, but a risk-adjusted return is usually a measurement of efficiency to see how well an investor's capital is being deployed.
+
+
+Some may argue diversifying is important because it also creates better opportunities. In our example above, let's say you invested in a streaming service to diversify away from transportation companies. Then the streaming company announces a major partnership and investment in content. Had you not been diversified across industries, you would have never reaped the benefit of positive changes across sectors.
+
+
+For some, diversifying can make investing more fun. Instead of holding all your investment within a very narrow group, diversifying means researching new industries, comparing companies against each other, and emotionally buying into different industries.
+
+
+Potential Problems With Diversification
+Professionals are always touting the importance of diversification but there are some downsides to this strategy. First, it may be somewhat cumbersome to manage a diverse portfolio, especially if you have multiple holdings and investments. Modern portfolio trackers can help with reporting and summarizing your holdings, but it can often be cumbersome having to track a larger number of holdings. This also includes maintaining the purchase and sale information for tax reasons.
+
+
+Diversification also can be expensive. Not all investment vehicles cost the same, so buying and selling will affect your bottom line—from transaction fees to brokerage charges. In addition, some brokerages may not offer specific asset classes you're interested in holding. Note, however, that recent trends toward zero-commission trading in stocks and ETFs have greatly reduced the cost of putting together a well-diversified portfolio.
+
+
+Also, consider how complicated diversified investing can be. For instance, many synthetic investment products have been created to accommodate investors' risk tolerance levels. These products are often complex and aren't meant for beginners or small investors. Those with limited investment experience and financial wherewithal may feel intimidated by the idea of diversifying their portfolio. Unfortunately, even the best analysis of a company and its financial statements can't guarantee it won't be a losing investment. Diversification won't prevent a loss, but it can reduce the impact of fraud and bad information on your portfolio.
+
+
+Finally, some risks simply can't be diversified away. Consider the fallout from the COVID-19 pandemic in March 2020. Due to global uncertainty, stocks, bonds, and other classes all fell at the same time. Diversification might have mitigated some of those losses, but it can't protect against a loss in general.
+
+
+Diversification Can (Potentially) Lower Returns
+Portfolio Diversification
+Pros
+Attempts to reduce risk across a portfolio
+
+
+Potentially increases the risk-adjusted rate of return for an investor
+
+
+Preserves capital, especially for retirees or older investors
+
+
+May garner better investing opportunities due to wider investing exposure
+
+
+May cause investing to be more fun and enjoyable, should investors like researching new opportunities
+
+
+Cons
+Generally leads to lower portfolio-wide returns
+
+
+May cause investing to feel burdensome, requiring more management
+
+
+Can result in more and larger transaction fees
+
+
+Does not eliminate all types of risk within a portfolio
+
+
+May turn your attention away from large future winners
+
+
+May be intimidating for inexperienced investors not wanting to buy index funds
+
+
+Diversification, however, also can have a negative impact on portfolio returns. When investors use diversification, they do not have a significant concentration in any one investment or industry sector in an attempt to capture idiosyncratic high returns. This is because a diversified portfolio is optimized to achieve the highest risk-adjusted returns, and not the highest absolute returns possible. Thus, diversification may cause an investor to miss out on the potential high returns of a specific stock, asset class, or market segment that is outperforming.
+
+
+The American industrialist Andrew Carnegie once said, "Keep all your eggs in one basket, but watch that basket closely," an apparent contradiction to the maxim of "Don't keep all your eggs in one basket." Famed investor Warren Buffett has also repeated Carnegie's sentiment.
+3
+
+
+The quote is a metaphor for investing, whereby putting all one's investments into a single "basket," an investor can focus their attention on that one investment (or small number of investments), monitor it closely, and make sure that it's performing well. When the outlook begins to turn negative, the "eggs" in the basket can be swapped out. This way the investor can avoid trying to keep track of too many investments at once or giving up potential superior returns to broad diversification.
+
+
+It's important to note that this quote doesn't actually advocate for putting all one's money into just a single investment, but favors instead focusing on a single investment or small group of stocks. It is a reminder that diversification is important, but one should also be aware of the investments they make and not be spread too thin. Investors may seek to strike a balance between diversification and maximizing returns, taking into account their risk tolerance and investment goals.
+
+
+Why Is Diversification Important?
+Diversification is a common investing technique used to reduce your chances of experiencing large losses. By spreading your investments across different assets, you're less likely to have your portfolio wiped out due to one negative event impacting that single holding. Instead, your portfolio is spread across different types of assets and companies, preserving your capital and increasing your risk-adjusted returns.
+
+
+What Does Diversification Mean in Investing?
+Diversification is a strategy that aims to mitigate risk and maximize returns by allocating investment funds across different vehicles, industries, companies, and other categories.
+
+
+What Is an Example of a Diversified Investment?
+A diversified investment portfolio includes different asset classes such as stocks, bonds, and other securities. But that's not all. These vehicles are diversified by purchasing shares in different companies, asset classes, and industries. For instance, a diversified investor's portfolio may include the stocks of retail, transport, and consumer-staple companies, as well as bonds—both corporate- and government-issued. Further diversification may include money market accounts, alternative investments, and cash.
+
+
+What Happens When You Diversify Your Investments?
+When you diversify your investments, you reduce the amount of risk you're exposed to in order to maximize your returns. Although there are certain risks you can't avoid, such as systematic risks, you can hedge against unsystematic risks like business or financial risks.
+
+
+The Bottom Line
+Diversification can help an individual investor manage risk and reduce the volatility of an asset's price movements. Remember, however, that no matter how diversified your portfolio is, risk can never be eliminated completely. Moreover, diversification can result in missing out on company- or industry-specific above-average returns that may be captured by a more active monitoring but less-diversified approach.
+
+
+However, if you aren't a professional investor it is important that you seek to minimize the risk associated with owning individual stocks, while bearing in mind that general market risks affect nearly every stock. It is therefore important to diversify among different asset classes, geographical locations, security duration, and companies. Only seek to concentrate your holdings once you have been in the market for a significant amount of time and are familiar with the potential risks you are exposing yourself to. The key is to find a happy medium between risk and return. This ensures you can achieve your financial goals while still getting a good night's rest.
+
+
+
+
+Sponsored
+Trade on the Go. Anywhere, Anytime
+One of the world's largest crypto-asset exchanges is ready for you. Enjoy competitive fees and dedicated customer support while trading securely. You'll also have access to Binance tools that make it easier than ever to view your trade history, manage auto-investments, view price charts, and make conversions with zero fees. Make an account for free and join millions of traders and investors on the global crypto market.
+"Don't put all your eggs in one basket." That timeless adage tidily sums up the concepts of asset allocation and diversification.
+
+
+When it comes to investing, asset allocation is the equivalent of deciding how many of your eggs you're going to put into how many different baskets—or asset classes. Diversification is the spreading of your investments both among and within different asset classes. And rebalancing means making regular adjustments to ensure you're still hitting your target allocation over time. All are important tools in managing investment risk. 
+
+
+These strategies are all about variety. If done well, asset allocation, diversification and rebalancing should help generate a healthy blend of performance and risk protection for life.
+
+
+The first step is deciding on an asset allocation. Usually expressed on a percentage basis, your asset allocation is what portion of your total portfolio you'll invest in different asset classes, like stocks, bonds and cash or cash equivalents. You can make these investments either directly by purchasing individual securities or indirectly by choosing funds that invest in those securities. Other asset classes some investors consider include options, futures and commodities, real estate and more.  
+
+
+Different categories of investments respond to changing economic and political conditions in different ways. By including different asset classes in your portfolio, you increase the probability that some of your investments will provide satisfactory returns even if others are flat or losing value.
+
+
+Your asset allocation will depend on a number of factors, including your risk tolerance and your investment horizon. You may also have a different target asset allocation for different accounts. For example, you may invest more heavily in cash or cash equivalents in your down payment fund if you're getting ready to buy a house, while simultaneously investing more heavily in stocks in your retirement fund if retirement is still decades away.
+
+
+Defining Diversification
+Asset allocation alone is not enough to effectively manage risk. After all, allocating 100 percent of your assets into security in one asset class won’t offer up much protection. Instead, it will expose you to concentration risk. That’s where diversification comes in.
+
+
+Diversification reduces the risk of major losses that can result from over-emphasizing a single security or single asset class, however resilient you might expect that asset or asset class to be. This is especially true if your assets are "uncorrelated," meaning they react to economic events in ways independent of other assets in your portfolio. Stocks and bonds, for instance, often move in different directions from each other, which is why holding both of these asset classes (and others) can help manage risk. Learn more in this Smart Investing Course: Playing the Field: Diversification.
+
+
+Financial experts tend to recommend diversification among and within asset classes. For example, when it comes to stocks, diversification increases when you own multiple stocks. It increases further when those stocks are made up of different sized companies (small, medium and large companies), include different sectors (technology, consumer, healthcare and more) and are diversified geographically (domestic and international).
+
+
+Similarly, if you're buying bonds, you might choose bonds from different issuers—the federal government, state and local governments and corporations—as well as those with different terms and different credit ratings.
+
+
+Building a diversified portfolio is one of the reasons many investors turn to pooled investments—such as mutual funds and exchange-traded funds. Pooled investments typically include a larger number and variety of underlying investments than you're likely to assemble on your own, so they help spread out your risk. You do have to make sure, however, that even the pooled investments you own are diversified. For example, owning two mutual funds that invest in the same subclass of stocks won't help you to diversify.
+
+
+Role of Rebalancing
+As market performance alters the values of your asset classes, you may find that your portfolio no longer provides the balance of growth and return that you want. In that case, you may want to consider adjusting your holdings to realign with your original allocation.
+
+
+Although there’s no official timeline that determines when you should rebalance your portfolio, you may want to consider whether you need to rebalance once a year as part of an annual review of your investments.
+
+
+Keep in mind that account shifting means potential sales charges and other fees. Aside from the costs you might incur, switching out of investments when the market is doing poorly means locking in your loss. If this occurs in a taxable account, you may be able to take a tax deduction, but that’s not the case with tax-advantaged retirement accounts. Also, be aware that if your investments have increased in value, selling them to rebalance your portfolio in a taxable brokerage account could result in your having to pay capital gains taxes. 
+
+
+You can rebalance your portfolio in different ways. Three common approaches include:
+
+
+redirecting money to the lagging asset classes until they return to the percentage of your total portfolio that they held in your original allocation;
+adding new investments to the lagging asset classes, concentrating a larger percentage of your contributions on those classes; and
+selling off a portion of your holdings within the asset classes that are outperforming others. You may then reinvest the profits in the lagging asset classes.
+All three approaches work well, but some people are more comfortable with the first two as they may find it hard to imagine selling off investments that are doing well in order to put money into those that aren't. Remember, though, that if you invest in the lagging classes, you'll be positioned to benefit if they turn around and begin to prosper again.
+
+
+Another approach some investors take is to invest in lifecycle funds, also called target date funds, which are designed to have their allocation modified gradually over a period of years, shifting its focus from seeking growth to providing income and preserving principal. Learn more about target date funds.

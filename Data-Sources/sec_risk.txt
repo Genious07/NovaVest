@@ -1,0 +1,193 @@
+﻿What is Risk?
+All investments involve some degree of risk. In finance, risk refers to the degree of uncertainty and/or potential financial loss inherent in an investment decision.  In general, as investment risks rise, investors seek higher returns to compensate themselves for taking such risks.
+Every saving and investment product has different risks and returns.  Differences include: how readily investors can get their money when they need it, how fast their money will grow, and how safe their money will be. In this section, we are going to talk about a number of risks investors face.  They include:
+Business Risk
+With a stock, you are purchasing a piece of ownership in a company.  With a bond, you are loaning money to a company.  Returns from both of these investments require that that the company stays in business. If a company goes bankrupt and its assets are liquidated, common stockholders are the last in line to share in the proceeds.  If there are assets, the company’s bondholders will be paid first, then holders of preferred stock.  If you are a common stockholder, you get whatever is left, which may be nothing.
+If you are purchasing an annuity make sure you consider the financial strength of the insurance company issuing the annuity.  You want to be sure that the company will still be around, and financially sound, during your payout phase.
+Volatility Risk
+Even when companies aren’t in danger of failing, their stock price may fluctuate up or down.  Large company stocks as a group, for example, have lost money on average about one out of every three years.  Market fluctuations can be unnerving to some investors.  A stock’s price can be affected by factors inside the company, such as a faulty product, or by events the company has no control over, such as political or market events.
+Inflation Risk
+Inflation is a general upward movement of prices.  Inflation reduces purchasing power, which is a risk for investors receiving a fixed rate of interest.  The principal concern for individuals investing in cash equivalents is that inflation will erode returns.
+Interest Rate Risk
+Interest rate changes can affect a bond’s value.  If bonds are held to maturity the investor will receive the face value, plus interest.  If sold before maturity, the bond may be worth more or less than the face value.  Rising interest rates will make newly issued bonds more appealing to investors because the newer bonds will have a higher rate of interest than older ones.  To sell an older bond with a lower interest rate, you might have to sell it at a discount.
+Liquidity Risk
+This refers to the risk that investors won’t find a market for their securities, potentially preventing them from buying or selling when they want. This can be the case with the more complicated investment products.  It may also be the case with products that charge a penalty for early withdrawal or liquidation such as a certificate of deposit (CD).
+Are there any Guarantees?
+The Federal Deposit Insurance Corporation (FDIC) – Savings accounts, insured money market accounts, and certificates of deposit (CDs) are generally viewed as safe because they are federally insured by FDIC.  This independent agency of the federal government insures your money up to $250,000 per insured bank.  It is important to note that the total is per depositor not per account.  But there’s a tradeoff between security and availability; your money earns a low interest rate. 
+The FDIC insures deposits only.  It does not insure securities, mutual funds, or similar types of investments that banks and thrift institutions may offer.
+The National Credit Union Administration (NCUA) –The National Credit Union Share Insurance Fund (NCUSIF) is the federal fund created by Congress in 1970 to insure credit union member’s deposits in federally insured credit unions.  The Dodd -Frank Act permanently established NCUA’s standard maximum share insurance amount at $250,000.  NCUSIF is backed by the full faith and credit of the U.S. Government.
+Securities Investors Protection Corporation (SIPC) – Securities you own, including mutual funds that are held for your account by a broker, or a bank's brokerage subsidiary, are not insured against loss in value.  The value of your investments can go up or down depending on the demand for them in the market.  The Securities Investors Protection Corporation (SIPC), a non government entity, replaces missing stocks and other securities in customer accounts held by SIPC member firm up to $500,000, including up to $250,000 in cash, if the firm fails.  
+Risk: What It Means in Investing and How to Measure and Manage It
+What Is Risk?
+In finance, risk refers to the possibility that the actual results of an investment or decision may turn out differently, often less favorably, than what was originally anticipated. Risk includes the possibility of losing some or all of an original investment.1
+Financial Industry Regulatory Authority. "The Reality of Investment Risk."
+Quantifiably, risk is usually assessed by considering historical behaviors and outcomes. In finance, standard deviation is a common metric associated with risk. provides a measure of the volatility of asset prices in comparison to their historical averages in a given time frame.
+Overall, it is possible and prudent to manage investment risks by understanding the basics of risk and how it is measured. Learning the risks that can apply to different scenarios and some of the ways to manage them holistically will help all types of investors and business managers to avoid unnecessary and costly losses.
+Key Takeaways
+* Risk takes on many forms but is broadly categorized as the chance that an outcome or investment's actual gain will differ from the intended result or return.
+* Risk includes the possibility of losing some or all of an investment.
+* There are several types of risk and several ways to quantify risk for analytical assessments.
+* Risk can be reduced using diversification and hedging strategies.
+
+
+
+
+The Basics of Risk
+Everyone is exposed to some type of risk every day—whether it’s from driving, walking down the street, investing, capital planning, or something else. An investor’s personality, lifestyle, and age are some of the top factors to consider for individual investment management and risk purposes. Each investor has a unique risk profile that determines their willingness and ability to withstand risk. In general, as investment risks rise, investors expect higher returns to compensate for taking those risks.
+A fundamental idea in finance is the relationship between risk and return. The greater the amount of risk an investor is willing to take, the greater the potential return. Risks can come in various ways, and investors need to be compensated for taking on additional risk. For example, a U.S. Treasury bond is considered one of the safest investments and, when compared to a corporate bond, provides a lower rate of return. A corporation is much more likely to go bankrupt than the U.S. government. Because the default risk of investing in a corporate bond is higher, investors are offered a higher rate of return.
+Quantifiably, the risk is usually assessed by considering historical behaviors and outcomes. In finance, standard deviation is a common metric associated with risk. Standard deviation provides a measure of the volatility of a value in comparison to its historical average. A high standard deviation indicates a lot of value volatility and therefore a high degree of risk.
+Individuals, financial advisors, and companies can all develop risk management strategies to help manage risks associated with their investments and business activities. Academically, there are several theories, metrics, and strategies that have been identified to measure, analyze, and manage risks. Some of these include standard deviation, beta, Value at Risk (VaR), and the Capital Asset Pricing Model (CAPM).
+Measuring and quantifying risk often allows investors, traders, and business managers to hedge some risks away by using various strategies, including diversification and derivative positions.
+Riskless Securities
+While it is true that no investment is fully free of all possible risks, certain securities have so little practical risk that they are considered risk-free or riskless.
+Riskless securities often form a baseline for analyzing and measuring risk. These types of investments offer an expected rate of return with very little or no risk. Oftentimes, all types of investors will look to these securities for preserving emergency savings or for holding assets that need to be immediately accessible.
+Examples of riskless investments and securities include certificates of deposits (CDs), government money market accounts, and U.S. Treasury bills. The 30-day U.S. Treasury bill is generally viewed as the baseline, risk-free security for financial modeling. It is backed by the full faith and credit of the U.S. government, and, given its relatively short maturity date, has minimal interest rate exposure.
+Important
+While savings accounts and CDs are riskless in the sense that their value cannot go down, bank failures can result in losses. The FDIC only insures up to $250,000 per depositor per bank, so any amount above that limit is exposed to the risk of bank failure.
+While U.S. government bonds are often cited as "riskless," investors can lose money if the government defaults on its debt. The U.S. came close to defaulting on its debt in 2011, when a political standoff over the debt ceiling led to a downgrade of its credit rating by Standard & Poor’s. The episode caused significant volatility and uncertainty in financial markets and reduced economic growth.7
+Such a politically-driven default isn't impossible in the future, and some suggest that it would likely be worse, given the higher level of overall debt in an even more polarized political environment.8
+
+
+Risk and Time Horizons
+Time horizon and liquidity of investments are often key factors influencing risk assessment and risk management. If an investor needs funds to be immediately accessible, they are less likely to invest in high-risk investments or investments that cannot be immediately liquidated and more likely to place their money in riskless securities.
+
+
+Time horizons will also be an important factor for individual investment portfolios. Younger investors with longer time horizons to retirement may be willing to invest in higher-risk investments with higher potential returns. Older investors would have a different risk tolerance since they will need funds to be more readily available.
+9
+U.S. Securities and Exchange Commission. "Asset Allocation."
+
+
+
+
+Types of Financial Risk
+Every saving and investment action involves different risks and returns. In general, financial theory classifies investment risks affecting asset values into two categories: systematic risk and unsystematic risk. Broadly speaking, investors are exposed to both systematic and unsystematic risks. 
+
+
+Systematic risks, also known as market risks, are risks that can affect an entire economic market overall or a large percentage of the total market. Market risk is the risk of losing investments due to factors, such as political risk and macroeconomic risk, that affect the performance of the overall market. Market risk cannot be easily mitigated through portfolio diversification. Other common types of systematic risk can include interest rate risk, inflation risk, currency risk, liquidity risk, country risk, and sociopolitical risk.
+10
+
+
+Unsystematic risk, also known as specific risk or idiosyncratic risk, is a category of risk that only affects an industry or a particular company. Unsystematic risk is the risk of losing an investment due to company or industry-specific hazards. Examples include a change in management, a product recall, a regulatory change that could drive down company sales, and a new competitor in the marketplace with the potential to take away market share from a company.
+10
+ Investors often use diversification to manage unsystematic risk by investing in a variety of assets.
+1
+
+
+In addition to the broad systematic and unsystematic risks, there are several specific types of risk, including:
+
+
+Business Risk
+Business risk refers to the basic viability of a business—the question of whether a company will be able to make sufficient sales and generate sufficient revenues to cover its operational expenses and turn a profit. While financial risk is concerned with the costs of financing, business risk is concerned with all the other expenses a business must cover to remain operational and functioning.
+10
+ These expenses include salaries, production costs, facility rent, office, and administrative expenses. The level of a company's business risk is influenced by factors such as the cost of goods, profit margins, competition, and the overall level of demand for the products or services that it sells.
+
+
+Operational risk is a type of business risk that arises from the day-to-day operation of a business and can include risks associated with system failures, human errors, fraud, or other internal processes that might negatively impact a business's financial performance. Operational risks can be managed through effective internal controls, processes, and systems.
+
+
+Businesses and investments can also be exposed to legal risks stemming from changes in laws, regulations, or legal disputes. Legal and regulatory risks can be managed through compliance programs, monitoring changes in regulations, and seeking legal advice as needed.
+
+
+Credit or Default Risk
+Credit risk is the risk that a borrower will be unable to pay the contractual interest or principal on its debt obligations.
+10
+ This type of risk is particularly concerning to investors who hold bonds in their portfolios. Government bonds, especially those issued by the federal government, have the least amount of default risk and, as such, the lowest returns. Corporate bonds, on the other hand, tend to have the highest amount of default risk, but also higher interest rates.
+
+
+Bonds with a lower chance of default are considered investment grade, while bonds with higher chances are considered high yield or junk bonds. Investors can use bond rating agencies—such as Standard and Poor’s, Fitch, and Moody's—to determine which bonds are investment-grade and which are junk.
+3
+
+
+Country Risk
+Country risk refers to the risk that a country won't be able to honor its financial commitments.
+10
+ When a country defaults on its obligations, it can harm the performance of all other financial instruments in that country, as well as other countries it has relations. Country risk applies to stocks, bonds, mutual funds, options, and futures that are issued within a particular country. This type of risk is most often seen in emerging markets or countries that have a severe deficit.
+
+
+Foreign-Exchange Risk
+When investing in foreign countries, it’s important to consider the fact that currency exchange rates can change the price of the asset as well. Foreign exchange risk (or exchange rate risk) applies to all financial instruments that are in a currency other than your domestic currency.
+10
+
+
+As an example, if you live in the U.S. and invest in a Canadian stock in Canadian dollars, even if the share value appreciates, you may lose money if the Canadian dollar depreciates in relation to the U.S. dollar.
+
+
+Interest Rate Risk
+Interest rate risk is the risk that an investment's value will change due to a change in the absolute level of interest rates, the spread between two rates, the shape of the yield curve, or any other interest rate relationship. This type of risk affects the value of bonds more directly than stocks and is a significant risk to all bondholders.
+10
+ As interest rates rise, bond prices in the secondary market fall—and vice versa.
+
+
+Reinvestment risk is related to interest rate risk. It is the possibility that an investor may not be able to reinvest the cash flows received from an investment (such as interest or dividends) at the same rate of return as the original investment. Reinvestment risk is particularly relevant for fixed income investments like bonds, where interest rates may change over time. Investors can manage reinvestment risk by laddering their investments, diversifying their portfolio, or considering investments with different maturity dates.
+
+
+Political Risk
+Political risk is the risk that an investment’s returns could suffer because of political instability or changes in a country. This type of risk can stem from a change in government, legislative bodies, other foreign policy makers, or military control.
+10
+ Also known as geopolitical risk, the risk becomes more of a factor as an investment’s time horizon gets longer.
+
+
+Counterparty Risk
+Counterparty risk is the likelihood or probability that one of those involved in a transaction might default on its contractual obligation. Counterparty risk can exist in credit, investment, and trading transactions, especially for those occurring in over-the-counter (OTC) markets. Financial investment products such as stocks, options, bonds, and derivatives carry counterparty risk.
+11
+
+
+Liquidity Risk
+Liquidity risk is associated with an investor’s ability to transact their investment for cash.
+10
+ Typically, investors will require some premium for illiquid assets, which compensates them for holding securities over time that cannot be easily liquidated.
+
+
+Model Risk
+This type of risk arises from the use of financial models to make investment decisions, evaluate risks, or price financial instruments. Model risk can occur if the model is based on incorrect assumptions, data, or methodologies, leading to inaccurate predictions and potentially adverse financial consequences. Model risk can be managed by validating and periodically reviewing financial models, as well as using multiple models to cross-check predictions and outcomes.
+
+
+Risk vs. Reward
+The risk-return tradeoff is the balance between the desire for the lowest possible risk and the highest possible returns. In general, low levels of risk are associated with low potential returns, and high levels of risk are associated with high potential returns.
+1
+ Each investor must decide how much risk they’re willing and able to accept for a desired return. This will be based on factors such as age, income, investment goals, liquidity needs, time horizon, and personality.
+
+
+The following chart shows a visual representation of the risk/return tradeoff for investing, where a higher standard deviation means a higher level of risk, as well as a higher potential return. 
+
+
+It’s important to keep in mind that higher risk doesn’t automatically equate to higher returns. The risk-return tradeoff only indicates that higher-risk investments have the possibility of higher returns, but there are no guarantees. On the lower-risk side of the spectrum is the risk-free rate of return—the theoretical rate of return of an investment with zero risk. It represents the interest you would expect from an absolutely risk-free investment over a specific period of time. In theory, the risk-free rate of return is the minimum return you would expect for any investment because you wouldn’t accept additional risk unless the potential rate of return is greater than the risk-free rate.
+
+
+Risk and Diversification
+The most basic—and effective—strategy for minimizing risk is diversification. Diversification is based heavily on the concepts of correlation and risk.
+12
+ A well-diversified portfolio will consist of different types of securities from diverse industries that have varying degrees of risk and correlation with each other’s returns.
+
+
+While most investment professionals agree that diversification can’t guarantee against a loss, it is the most important component to helping an investor reach long-range financial goals while minimizing risk.
+
+
+There are several ways to plan for and ensure adequate diversification, including: 
+
+
+Spread your portfolio among many different investment vehicles—including cash, stocks, bonds, mutual funds, ETFs, and other funds. Look for assets whose returns haven’t historically moved in the same direction and to the same degree. That way, if part of your portfolio is declining, the rest may still be growing.
+Stay diversified within each type of investment. Include securities that vary by sector, industry, region, and market capitalization. It’s also a good idea to mix styles, such as growth, income, and value. The same goes for bonds: consider varying maturities and credit qualities.
+Include securities that vary in risk. You're not restricted to picking only blue-chip stocks. In fact, the opposite is true. Picking different investments with different rates of return will ensure that large gains offset losses in other areas.
+9
+Keep in mind that portfolio diversification is not a one-time task. Investors and businesses perform regular “check-ups” or rebalancing to make sure their portfolios have a risk level that’s consistent with their financial strategy and goals.
+9
+
+
+Can Portfolio Diversification Protect Against Risks?
+Portfolio diversification is an effective strategy used to manage unsystematic risks (risks specific to individual companies or industries); however, it cannot protect against systematic risks (risks that affect the entire market or a large portion of it). Systematic risks, such as interest rate risk, inflation risk, and currency risk, cannot be eliminated through diversification alone. However, investors can still mitigate the impact of these risks by considering other strategies like hedging, investing in assets that are less correlated with the systematic risks, or adjusting the investment time horizon.
+
+
+How Does Investor Psychology Impact Risk-Taking and Investment Decisions?
+Investor psychology plays a significant role in risk-taking and investment decisions. Individual investors' perception of risk, personal experiences, cognitive biases, and emotional reactions can influence their investment choices. For instance, behavioral economics identifies loss aversion, a cognitive bias where people are more sensitive to potential losses than gains, which can make investors overly cautious and avoid riskier investments that might offer higher potential returns. Understanding one's own psychological tendencies and biases can help investors make more informed and rational decisions about their risk tolerance and investment strategies.
+
+
+How Do Black Swan Events Relate to Risk Management, and How Can Investors Prepare for Them?
+"Black swan" events are rare, unpredictable, and high-impact occurrences that can have significant consequences on financial markets and investments. Due to their unexpected nature, traditional risk management models and strategies may not adequately account for these events. To prepare for black swan events, investors must understand their bias that things will remain the same and consider implementing stress testing, scenario analysis, or other techniques that focus on assessing the portfolio's resilience under extreme market conditions. Additionally, maintaining a well-diversified portfolio, holding adequate cash reserves, and being adaptable to evolving market conditions can help investors better navigate the potential fallout from black swan events.
+
+
+The Bottom Line
+We all face risks every day—whether we’re driving to work, surfing a 60-foot wave, investing, or managing a business. In the financial world, risk refers to the chance that an investment’s actual return will differ from what is expected—the possibility that an investment won’t do as well as you’d like, or that you’ll end up losing money.
+
+
+The most effective way to manage investment risk is through regular risk assessment and diversification. Although diversification won’t ensure gains or guarantee against losses, it does provide the potential to improve returns based on your goals and target level of risk. Finding the right balance between risk and return helps investors and business managers achieve their financial goals through investments that they can be most comfortable with.

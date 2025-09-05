@@ -1,0 +1,123 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 150 21% 3%; /* #060908 */
+    --foreground: 162 43% 94%; /* #eaf6f3 */
+    --card: 165 21% 7%; /* #0d1614 */
+    --card-foreground: 162 43% 94%;
+    --popover: 165 21% 7%;
+    --popover-foreground: 162 43% 94%;
+    --primary: 169 64% 34%; /* #1F8F7A */
+    --primary-foreground: 162 43% 94%;
+    --secondary: 165 21% 12%;
+    --secondary-foreground: 162 43% 94%;
+    --muted: 165 21% 7%;
+    --muted-foreground: 159 22% 69%; /* #9fbfb3 */
+    --accent: 163 64% 43%; /* #27B48F */
+    --accent-foreground: 162 43% 94%;
+    --destructive: 4 100% 71%; /* #FF7A6B */
+    --destructive-foreground: 162 43% 94%;
+    --border: 165 21% 10%;
+    --input: 165 21% 10%;
+    --ring: 169 64% 34%;
+    --radius: 0.5rem;
+    --chart-1: 169 64% 34%;
+    --chart-2: 163 64% 43%;
+    --chart-3: 159 22% 69%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --glow: 163, 64%, 43%;
+  }
+
+  .dark {
+    --background: 150 21% 3%;
+    --foreground: 162 43% 94%;
+    --card: 165 21% 7%;
+    --card-foreground: 162 43% 94%;
+    --popover: 165 21% 7%;
+    --popover-foreground: 162 43% 94%;
+    --primary: 169 64% 34%;
+    --primary-foreground: 162 43% 94%;
+    --secondary: 165 21% 12%;
+    --secondary-foreground: 162 43% 94%;
+    --muted: 165 21% 7%;
+    --muted-foreground: 159 22% 69%;
+    --accent: 163 64% 43%;
+    --accent-foreground: 162 43% 94%;
+    --destructive: 4 100% 71%;
+    --destructive-foreground: 162 43% 94%;
+    --border: 165 21% 10%;
+    --input: 165 21% 10%;
+    --ring: 169 64% 34%;
+    --chart-1: 169 64% 34%;
+    --chart-2: 163 64% 43%;
+    --chart-3: 159 22% 69%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .shimmer {
+    background: linear-gradient(
+      100deg,
+      rgba(255, 255, 255, 0) 20%,
+      hsl(var(--glow) / 0.12) 50%,
+      rgba(255, 255, 255, 0) 80%
+    );
+    background-size: 200% 100%;
+    animation: shimmer-animation 2s infinite linear;
+  }
+
+  @keyframes shimmer-animation {
+    from {
+      background-position: 200% 0;
+    }
+    to {
+      background-position: -200% 0;
+    }
+  }
+
+  .typing-cursor {
+    @apply inline-block bg-accent;
+    width: 0.75em;
+    height: 1.25em;
+    animation: blink-caret 0.75s step-end infinite;
+    transform: translateY(0.25em);
+  }
+
+  .typing-effect {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 3s steps(30, end) 1s 1 normal both;
+  }
+
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  @keyframes blink-caret {
+    from,
+    to {
+      background-color: transparent;
+    }
+    50% {
+      background-color: hsl(var(--accent));
+    }
+  }
+}

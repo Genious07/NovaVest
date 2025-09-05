@@ -1,0 +1,392 @@
+﻿Advance Fee Fraud
+Advance fee frauds ask investors to pay a fee up front – in advance of receiving any proceeds, money, stock, or warrants – in order for the deal to go through. The advance payment may be described as a fee, tax, commission, or incidental expense that will be repaid later. Some advance fee schemes target investors who already purchased underperforming securities and offer to sell those securities if an “advance fee” is paid, or target investors who have already lost money in investment schemes. Fraudsters often direct investors to wire advance fees to escrow agents or lawyers to give investors comfort and to lend an air of legitimacy to their schemes. Fraudsters also may try to fool investors with official-sounding websites and e-mail addresses. 
+
+
+Advance fee frauds may involve the sale of products or services, the offering of investments, lottery winnings, found money, or many other so-called opportunities. Fraudsters carrying out advance fee schemes may:
+
+
+Offer common financial instruments such as bank guarantees, old government or corporate bonds, medium or long term notes, stand-by letters of credit, blocked funds programs, “fresh cut” or “seasoned” paper, and proofs of funds;
+Offer to find financing arrangements for clients who pay a “finder’s fee” in advance; or
+Pose as legitimate U.S. brokers or firms and offer to help investors recover their stock market losses by exchanging worthless stock, but requiring investors to pay an upfront “security deposit” or post an “insurance” or “performance bond.”
+
+
+Binary Options Fraud
+Much of the binary options market operates through Internet-based trading platforms that are not necessarily complying with applicable U.S. regulatory requirements and may be engaging in illegal activity.  Investors should be aware of fraudulent promotion schemes involving binary options and binary options trading platforms.
+
+
+What is a Binary Option?
+
+
+A binary option is a type of options contract in which the payout depends entirely on the outcome of a yes/no proposition and typically relates to whether the price of a particular asset will rise above or fall below a specified amount.  Once the option is acquired, there is no further decision for the holder to make regarding the exercise of the binary option because binary options exercise automatically.  Unlike other types of options, a binary option does not give the holder the right to buy or sell the specified asset.  When the binary option expires, the option holder receives either a pre-determined amount of cash or nothing at all.
+
+
+What should you know about binary options image
+
+
+Investor Complaints Relating To Fraudulent Binary Options Trading Platforms
+
+
+The SEC has received numerous complaints of fraud associated with websites that offer an opportunity to buy or trade binary options through Internet-based trading platforms.  The complaints fall into at least three categories:
+
+
+Refusal to credit customer accounts or reimburse funds to customers
+These complaints typically involve customers who have deposited money into their binary options trading account and who are then encouraged by “brokers” over the telephone to deposit additional funds into the customer account.  When customers later attempt to withdraw their original deposit or the return they have been promised, the trading platforms allegedly cancel customers’ withdrawal requests, refuse to credit their accounts, or ignore their telephone calls and emails.
+
+
+Identity theft
+These complaints allege that certain Internet-based binary options trading platforms may be collecting customer information (including copies of customers’ credit cards, passports, and driver’s licenses) for unspecified uses.  Do not provide personal data.
+
+
+Manipulation of software to generate losing trades
+These complaints allege that the Internet-based binary options trading platforms manipulate the trading software to distort binary options prices and payouts.  For example, when a customer’s trade is “winning,” the countdown to expiration is extended arbitrarily until the trade becomes a loss.
+
+
+Beware of Overstated Investment Returns for Binary Options
+
+
+Additionally, some binary options Internet-based trading platforms may overstate the average return on investment by advertising a higher average return on investment than a customer should expect, given the payout structure.
+
+
+For example, a customer may be asked to pay $50 for a binary option contract that promises a 50% return if the stock price of XYZ company is above $5 per share when the option expires.  Assuming a 50/50 chance of winning, the payout structure has been designed in such a way that the expected return on investment is actually negative, resulting in a net loss to the customer.  This is because the consequence if the option expires out of the money (approximately a 100% loss) significantly outweighs the payout if the option expires in the money (approximately a 50% gain).  In this example, an investor could expect -- on average -- to lose money.
+
+
+Always Check the Background of a Firm or Financial Professional
+
+
+Before investing, check out the background, including registration or license status, of any firm or financial professional you are considering dealing with through the SEC’s Investment Adviser Public Disclosure (IAPD) database, available on Investor.gov, and the National Futures Association Background Affiliation Status Information Center’s BASIC Search.  If you cannot verify that they are registered, don’t trade with them, don’t give them any money, and don’t share your personal information with them.
+
+
+High-Yield Investment Programs
+The Internet is awash in so-called “high-yield investment programs” or “HYIPs.” These are unregistered investments typically run by unlicensed individuals – and they are often frauds. The hallmark of an HYIP scam is the promise of incredible returns at little or no risk to the investor. A HYIP website might promise annual (or even monthly, weekly, or daily!) returns of 30 or 40 percent – or more. Some of these scams may use the term “prime bank” program. If you are approached online to invest in one of these, you should exercise extreme caution - it is likely a fraud.
+Impersonation Schemes
+Fraudsters often impersonate organizations or individuals to lure victims into scams. They may impersonate government agencies or employees, or legitimate investment professionals like brokers and investment advisers. Impersonators may be part of an advance fee scam, or may use personal information they obtain to steal an individual’s identity or misappropriate their financial assets. Investors should be aware of these impersonation schemes:
+
+
+Fraudsters may impersonate the SEC.
+Communications – including phone calls, voicemails, text messages, messages via social media, emails, letters, and certificates – may falsely appear to be from the SEC. Be skeptical if you are contacted by someone claiming to be from the SEC asking about your shareholdings, account numbers, PIN numbers, passwords, digital addresses, or other information that may be used to access your financial accounts. It may be part of a scam to compromise your investment, financial, or other personal accounts.
+
+
+Public companies also may be targeted by SEC impersonators. Fraudsters may contact officers and employees of public companies while posing as SEC staff members, including senior officers. If you work for a public company, verify that any communication purporting to be from the SEC is genuine before engaging or responding. You can confirm that the communication is genuine by following the steps outlined below.
+If you receive a communication that appears to be from the SEC, do not provide any information until you have verified that you are dealing with someone from the SEC, and not an impersonator. 
+
+
+How can I confirm that I am dealing with the SEC? If you are contacted by someone claiming to be from the SEC, use the SEC’s personnel locator at (202) 551-6000 to reach the staff member directly to confirm that the communication is genuine. You can also call (800) SEC-0330 or email help@SEC.gov to check if a communication is from the SEC.
+If you receive a communication that falsely appears to be from the SEC, submit an Investor Complaint Form to the SEC.  If you have lost money in a scheme involving SEC impersonation, submit a complaint at www.sec.gov/oig to the SEC’s Office of Inspector General (“OIG”) or call the OIG’s toll-free hotline at (833) SEC-OIG1 (732-6441).  
+
+
+Fraudsters may impersonate registered brokers or investment advisers.
+Fraudsters may set up an account name, profile, or handle designed to mimic a particular individual or firm. They may create a webpage that uses the real firm’s logo, links to the firm’s actual website, or references the name of an actual person who works for the firm. Fraudsters also may direct investors to an imposter website by posting comments in the social media account of brokers, investment advisers, or other sources of market information.
+
+
+Verify that you are communicating with an investment professional and not an imposter. For example, contact the professional using a phone number or website listed in the firm’s Client Relationship Summary (Form CRS). To ensure you are looking at a genuine copy of the firm’s Form CRS, follow these steps:
+
+
+In the “Check Out Your INVESTMENT PROFESSIONAL” search box on Investor.gov, select “Firm” from the drop down options and type in the name of the firm.
+In the search results, click on the relevant firm and then click on “Get Details.”
+Click on “Relationship Summary” or “Part 3 Relationship Summary.”
+
+
+Internet and Social Media Fraud
+HoweyTrade
+Many investors use the Internet and social media to help them with investment decisions. While these online tools can provide many benefits for investors, these same tools can make attractive targets for criminals. Criminals are quick to adapt to new technologies – and the Internet is no exception.
+
+
+The Internet is a useful way to reach a mass audience without spending a lot of time or money. A website, online message, or social media site can reach large numbers with minimum effort. It's easy for fraudsters to make their messages look real and credible and sometimes hard for investors to tell the difference between fact and fiction. If an investment promotion grabs your interest, research the “opportunity” even before providing your phone number and email address. Otherwise, you may be setting yourself up to be targeted for investment fraud.
+
+
+The key to avoiding investment fraud on social media sites or elsewhere on the Internet is to be an educated investor. To learn specific steps you can take, see What You Can Do to Avoid Investment Fraud. Below, we tell you where various types of fraud may show up online such as Social media, Online investment newsletters, Online bulletin boards and chat rooms and Spam.
+
+
+Social media
+Social media, such as Facebook, YouTube, Twitter, and LinkedIn, have become key tools for U.S. investors. Whether they are seeking research on particular stocks, background information on a broker-dealer or investment adviser, guidance on an overall investment strategy, up to date news or to simply want to discuss the markets with others, investors turn to social media. Social media also offers a number of features that criminals may find attractive. Fraudsters can use social media in their efforts to appear legitimate, to hide behind anonymity, and to reach many people at low cost.  For additional information, see these Investor Alerts and Bulletins:
+
+
+Investor Alert: Social Media and Investing – Avoiding Fraud
+Investor Bulletin: Social Media and Investing – Understanding Your Accounts
+Investor Bulletin:  Social Media and Investing – Tips for Seniors
+
+
+Always be wary of unsolicited offers to invest. Unsolicited sales pitches may be part of a fraudulent investment scheme. If you receive an unsolicited message from someone you don’t know containing a “can’t miss” investment, your best move maybe to pass up the “opportunity” and report it to the SEC Complaint Center.
+
+
+Online investment newsletters
+While legitimate online newsletters contain valuable information, others are tools for fraud. Some companies pay online newsletters to "tout" or recommend their stocks. Touting isn’t illegal as long as the newsletters disclose who paid them, how much they’re getting paid, and the form of the payment, usually cash or stock. But fraudsters often lie about the payments they receive and their track records.
+
+
+Fraudulent promoters may claim to offer independent, unbiased recommendations in newsletters when they stand to profit from convincing others to buy or sell certain stocks. They may spread false information to promote worthless stocks.
+
+
+The fact that these so-called “newsletters” may be advertised on legitimate websites, including on the online financial pages of news organizations, does not mean that they are not fraudulent. To learn more, read our tips for checking out newsletters.
+
+
+Online bulletin boards and chat rooms
+Online bulletin boards, chat rooms and social media sites are a way for investors to share information. While some messages may be true, many turn out to be bogus – or even scams. Fraudsters may use online discussions to pump up a company or pretend to reveal "inside" information about upcoming announcements, new products, or lucrative contracts.
+
+
+You never know for certain who you're dealing with, or whether they're credible, because many sites allow users to hide their identity behind multiple aliases. People claiming to be unbiased observers may actually be insiders, large shareholders, or paid promoters. One person can easily create the illusion of widespread interest in a small, thinly traded stock by posting numerous messages under various aliases.
+
+
+Other online offerings may not be fraudulent per se, but may nonetheless fail to comply with the applicable registration provisions of the federal securities laws. While the federal securities laws require the registration of solicitations or “offerings,” some offerings are exempt. Always determine if a securities offering is registered with the SEC or a state, or is otherwise exempt from registration, before investing.
+
+
+Spam
+“Spam" – junk e-mail – often is used to promote bogus investment schemes or to spread false information about a company. With a bulk e-mail program, spammers can send personalized messages to millions of people at once for much less than the cost of cold calling or traditional mail. Many scams, including advance fee frauds, use spam to reach potential victims.
+
+
+Many of the frauds that show up on social media are not unique to the Internet. These frauds range from “pump and dump” schemes to promises of “guaranteed returns,” from “High Yield Investment Programs” to affinity fraud. To learn more about these frauds, see Types of Fraud.
+
+
+Investment Scams Targeting Groups
+Some investment scams target members of identifiable groups, such as older investors, or religious or military communities. The fraudsters involved in these scams often are – or pretend to be – members of the group. They may enlist respected leaders from the group to spread the word about the scheme, convincing them it is legitimate and worthwhile. Many times, those leaders become unwitting victims of the fraud they helped to promote.
+
+
+These scams exploit the trust and friendship that exists in groups of people. Because of the tight-knit structure of many groups, outsiders may not know about the investment scam. Victims may try to work things out within the group rather than notify authorities or pursue legal remedies.
+
+
+These scams often involve “Ponzi” or pyramid schemes where new investor money is used to pay earlier investors, making it appear as if the investment is successful and legitimate.
+
+
+Never let down your guard because someone you trust brought an investment opportunity to your attention.
+
+
+Tips to Avoid Fraud
+
+
+Even if you know the person making the investment offer, be sure to research the person’s background, as well as the investment itself – no matter how much you trust the person who brings the investment opportunity to your attention. To research an investment professional, use the free tool on Investor.gov — you’ll be able to check if they are currently licensed and registered, and if they’ve had red flags like customer complaints or disciplinary actions. 
+ 
+Never make an investment based solely on the recommendation of a member of an organization or group to which you belong. This is especially true if the recommendation is made online or through social media, as the recommendation may be a fraud.
+ 
+Do not fall for investments that promise spectacular profits or “guaranteed” returns. Similarly, be extremely leery of any investment that is said to have no risks. Very few investments are risk-free. Promises of quick and high profits, with little or no risk, are classic warning signs of fraud.
+ 
+Fraudsters often avoid putting things in writing. Avoid an investment if you are told they do “not have the time to put in writing” the particulars about the investment. You should also be suspicious if you are told to keep the investment opportunity confidential or a secret.
+ 
+Don’t be pressured or rushed into buying an investment before you have a chance to research the “opportunity.” Just because someone you know made money, or claims to have made money, doesn’t mean you will, too. Be especially skeptical of investments that are pitched as “once-in-a-lifetime” opportunities, particularly when the recommendation is supposedly based on “inside” or confidential information.
+ 
+Fraudsters may try to tap into your desire to get in on the ground floor of the latest technology, product, or growth industry.
+
+
+Microcap Fraud
+
+
+(What are Microcap Stocks?)
+
+
+If you receive an unsolicited stock promotion, be cautious.  Whoever is promoting the stock may stand to profit at your expense from pumping up the stock price and then selling shares.  Fraudsters often use emerging technologies or industries - including crypto assets - to entice investors as part of a fraudulent or manipulative scheme.  For example, they may publicly announce a development that is intended to affect a company’s stock price.  Or they may promote a company that claims to be developing products or services relating to the latest news events or trends.
+
+
+What are microcap stocks and why are they more susceptible to stock price manipulation?
+
+
+Publicly-available information about microcap stocks (low-priced stocks issued by the smallest of companies), including penny stocks (the very lowest priced stocks), often is scarce.  This makes it easier for fraudsters to spread false information.  In addition, it is often easier for fraudsters to manipulate the price of microcap stocks because microcap stocks historically have been less liquid than the stock of larger companies and often do not trade on a national securities exchange. 
+
+
+What are some warning signs of microcap fraud?  
+
+
+Signs of fraud
+
+
+Unsolicited stock recommendation or heavy stock promotion
+Be wary if the company’s stock seems to be more heavily promoted than its products or services.
+No real business operations
+Penny stocks that are aggressively promoted may be stocks of dormant shell companies. 
+Unexplained increase in stock price or trading volume
+SEC trading suspension
+Click here to find out whether the SEC has recently suspended trading of the company’s stock.
+Frequent changes in company name or type of business
+Frequent changes in company name or business plan may suggest no real business operations.
+Microcap stocks often are quoted on “over-the-counter” (OTC) systems (e.g., by alternative trading systems (ATSs)), such as Delaware Board of Trade ATS (DBOT ATS), Global OTC ATS (part of NYSE Group, Inc.), and OTC Link ATS (operated by OTC Markets), among other venues.
+image red flag
+
+
+ 
+
+
+Where can I get information about a microcap company?
+
+
+Read recent reports that the company has filed with the SEC.  You may also consider searching for company information on the websites of DBOT ATS (https://dbottrading.com), Global OTC ATS (https://www.globalotc.com), and OTC Link ATS (http://www.otcmarkets.com.  However, the SEC does not endorse or otherwise approve of the information posted there.  Learn more. 
+
+
+What If I received the stock promotion through a legitimate source?
+
+
+Fraudsters may promote a stock in seemingly independent and unbiased sources including social media, investment research websites, investment newsletters, online advertisements, email, Internet chat rooms, direct mail, newspapers, magazines, and radio.
+
+
+What if the promoter discloses receiving compensation to promote the stock?
+
+
+Even if a promoter makes specific disclosures about being compensated for promoting a stock, be aware that fraudsters may make such disclosures to create the false appearance that the promotion is legitimate.  Additionally, the disclosures may not reveal that the underlying source of the compensation is a company insider or affiliate.
+
+
+Ponzi Scheme
+A Ponzi scheme is an investment fraud that pays existing investors with funds collected from new investors. Ponzi scheme organizers often promise to invest your money and generate high returns with little or no risk. But in many Ponzi schemes, the fraudsters do not invest the money. Instead, they use it to pay those who invested earlier and may keep some for themselves.
+
+
+With little or no legitimate earnings, Ponzi schemes require a constant flow of new money to survive. When it becomes hard to recruit new investors, or when large numbers of existing investors cash out, these schemes tend to collapse.
+
+
+Ponzi schemes are named after Charles Ponzi, who duped investors in the 1920s with a postage stamp speculation scheme.
+
+
+Ponzi scheme “red flags”
+Many Ponzi schemes share common characteristics. Look for these warning signs:
+
+
+High returns with little or no risk. Every investment carries some degree of risk, and investments yielding higher returns typically involve more risk. Be highly suspicious of any “guaranteed” investment opportunity.
+Overly consistent returns. Investments tend to go up and down over time. Be skeptical about an investment that regularly generates positive returns regardless of overall market conditions.
+Unregistered investments. Ponzi schemes typically involve investments that are not registered with the SEC or with state regulators. Registration is important because it provides investors with access to information about the company’s management, products, services, and finances.
+Unlicensed sellers. Federal and state securities laws require investment professionals and firms to be licensed or registered. Most Ponzi schemes involve unlicensed individuals or unregistered firms.
+Secretive, complex strategies. Avoid investments if you don’t understand them or can’t get complete information about them.
+Issues with paperwork. Account statement errors may be a sign that funds are not being invested as promised.
+Difficulty receiving payments. Be suspicious if you don’t receive a payment or have difficulty cashing out. Ponzi scheme promoters sometimes try to prevent participants from cashing out by offering even higher returns for staying put.
+
+
+Pre-IPO Investment Scams
+SEC staff continue to receive complaints — and to bring enforcement actions — involving investment scams that purport to offer investors the opportunity to buy “pre-IPO” shares of companies. 
+
+
+"Pre-IPO" investing involves buying a stake in a company before the company makes its initial public offering of securities, also known as “going public.”  Many stock promoters entice potential investors by promising an opportunity to make high returns by investing in a start-up enterprise at the ground floor level. 
+
+
+Fraudsters may use pre-IPO offerings to conduct investment scams.  Common red flags in pre-IPO investment scams include unregistered investment professionals, aggressive sales practices, social media solicitations, and fraudsters claiming that the companies they promote are focused on emerging technologies or industries.  These types of scams may be promoted on social media and websites, by phone, by email, in person, or through other means. 
+
+
+Claims about pre-IPO offerings may be false or misleading.  Fraudsters perpetrating pre-IPO scams may tout that they have created investment opportunities for you (as opposed to just for the wealthy) and falsely claim that they won’t make money until you make money.  They may use impressive-looking websites, online postings, and email spam to entice potential investors.  To lure you in, they may make unfounded comparisons between the company they are promoting and other established, successful companies.  They may make claims about the timing of the IPO — for example, they may say the IPO is “imminent” or will be “this year.”  But these and other claims that sound so believable at first often turn out to be false or misleading.
+
+
+Pyramid Schemes
+In the classic "pyramid" scheme, participants attempt to make money solely by recruiting new participants, usually where:
+
+
+The promoter promises a high return in a short period of time;
+No genuine product or service is actually sold; and
+The primary emphasis is on recruiting new participants.
+All pyramid schemes eventually collapse, and most investors lose their money.
+
+
+
+
+
+
+Fraudsters frequently promote pyramid schemes through social media, Internet advertising, company websites, group presentations, conference calls, YouTube videos, and other means. Pyramid scheme promoters may go to great lengths to make the program look like a business, such as a legitimate multi-level marketing (MLM) program. But the fraudsters use money paid by new recruits to pay off earlier stage investors (usually recruits as well). At some point, the schemes get too big, the promoter cannot raise enough money from new investors to pay earlier investors, and people lose their money.
+
+
+These are some of the hallmarks of a pyramid scheme:
+
+
+Emphasis on recruiting. If a program focuses solely on recruiting others to join the program for a fee, it is likely a pyramid scheme. Be skeptical if you will receive more compensation for recruiting others than for product sales.
+No genuine product or service is sold.  Exercise caution if what is being sold as part of the business is hard to value, like so-called “tech” services or products such as mass-licensed e-books or online advertising on little-used websites. Some fraudsters choose fancy-sounding “products” to make it harder to prove the company is a bogus pyramid scheme.    
+Promises of high returns in a short time period. Be skeptical of promises of fast cash – it could mean that commissions are being paid out of money from new recruits rather than revenue generated by product sales.
+Easy money or passive income.  There is no such thing as a free lunch. If you are offered compensation in exchange for doing little work such as making payments, recruiting others, or placing online advertisements on obscure websites, you may be part of an illegal pyramid scheme.   
+No demonstrated revenue from retail sales.  Ask to see documents, such as financial statements audited by a certified public accountant (CPA), showing that the company generates revenue from selling its products or services to people outside the program.  As a general rule, legitimate MLM companies derive revenue primarily from selling products, not from recruiting members.
+Complex commission structure. Be concerned unless commissions are based on products or services that you or your recruits sell to people outside the program. If you do not understand how you will be compensated, be cautious.
+All Pyramid Schemes Collapse
+
+
+When fraudsters attempt to make money solely by recruiting new participants into a program, that is a pyramid scheme, and there is only one possible mathematical result – collapse. Imagine if one participant must find six other participants, who, in turn, must find six new recruits each. In only 11 layers of the “downline,” you would need more participants than the entire population of the United States to maintain the scheme. This infographic shows how all pyramid schemes are destined to collapse.
+
+
+“Prime Bank” Investments
+If someone approaches you about investing in a so-called "Prime Bank" program, "Prime World Bank" financial instrument, or similar high-yield security, you should know that these investments do not exist. They are all scams.
+
+
+Prime Bank programs often claim investors' funds will be used to buy and trade "Prime Bank" instruments. Promoters make the schemes seem legitimate, using complex, sophisticated and official-sounding terms. The investment may be described as debentures, standby letters of credit, bank guarantees, an offshore trading program, a high-yield investment program, or some variation.
+
+
+To reassure investors, promoters may claim that the instrument is issued, traded, or guaranteed by a well-known organization such as the World Bank, the International Monetary Fund(IMF), a central bank, such as the U.S. Federal Reserve, or the International Chamber of Commerce (ICC).
+
+
+Secrecy is another tip-off. Prime Bank scheme promoters frequently claim that investment opportunities of this type are by invitation only and limited to select, wealthy customers. They cite secrecy if potential investors ask for references, and sometimes ask investors to sign non-disclosure agreements.
+
+
+Some promoters are audacious enough to advertise in national newspapers. They may avoid using the term "Prime Bank note," and tell prospective investors that their programs do not involve Prime Bank instruments. Regardless of what they’re called, the basic pitch remains the same, and investors should remain vigilant against offers to invest in high-yield, risk-free international finance programs.
+
+
+Promissory Notes
+Promissory notes are a form of debt that companies use to raise money. Investors loan money to a company. In return, investors are promised a fixed amount of periodic income. Typically, the rate of return promised is very high. And, the level of risk promised is very low.
+
+
+Promissory notes can be appropriate investments for many investors. But, promissory notes that are sold broadly to individual investors are often scams.
+
+
+What you can do to avoid promissory note fraud:
+
+
+Typically, promissory notes are securities. They must be registered with the SEC, a state securities regulator, or be exempt from registration. Most legitimate promissory notes can easily be verified by checking the SEC’s EDGAR database or calling your state securities regulator.
+The seller must be properly licensed to sell securities. Check your investment professional’s registration status using our free search tool on IAPD or at Investor.gov.  Or call your state securities regulator.
+Compare the rate of return on the promissory note with current market rates for similar investments. Similar investments would be fixed rate investments, long term Treasury bonds, or FDIC insured certificates of deposit. If the seller promises a higher rate, proceed with caution.
+Be cautious if the seller promises “risk free,” “insured,” or “guaranteed returns.” These claims are usually the bait con artist use to lure their victims.  Always remember that if it sounds too good to be true, it probably is.
+
+
+Pump and Dump Schemes
+"Pump and dump" schemes have two parts. In the first, promoters try to boost the price of a stock with false or misleading statements about the company. Once the stock price has been pumped up, fraudsters move on to the second part, where they seek to profit by selling their own holdings of the stock, dumping shares into the market.
+
+
+These schemes often occur on the Internet where it is common to see messages urging readers to buy a stock quickly. Often, the promoters will claim to have "inside" information about a development that will be positive for the stock. After these fraudsters dump their shares and stop hyping the stock, the price typically falls, and investors lose their money.
+
+
+Relationship Investment Scams ‒ Protect Yourself
+In a relationship investment scam, scammers reach out online or through text messages, attempting to build trust through friendship or a romantic connection to convince you to put money into phony investments.
+
+
+Relationship investment scams are called various names, including romance scams, crypto/cryptocurrency investment scams, financial grooming scams, and “pig butchering” scams. These frauds can be devastating, and cause investors to lose billions of dollars every year.
+
+
+Key Takeaways
+These scams involve a “long con” where scammers build trust through friendship or romance over time. Ignore messages from anyone you don’t know and consider deleting or blocking them.
+ 
+Be wary of unsolicited investment opportunities no matter how much you trust the person. 
+ 
+If you suspect you may be caught up in one of these scams, stop communicating with the individuals immediately, and do not give them any more money.
+Learn how relationship investment scams work, what to look out for, and how to protect yourself and others.
+
+
+
+
+
+
+How the Scam Works
+
+
+Scammers make unsolicited contact Phone
+They may:
+
+
+Contact you online or on social media platforms — including professional networking, dating, and messaging websites/apps;
+ 
+Send you a text message pretending to be an old friend or claiming to have contacted you accidentally;
+ 
+Place ads on social media or add you to a group chat that you didn’t join;
+ 
+Use an auto dialer to blast out text messages to thousands of people that appear intended for someone else, seeking to prompt a response;
+ 
+Offer financial advice or express romantic interest; or
+ 
+Quickly move communications away from the initial platform to a different, sometimes unmonitored space.
+Scammers gain your trust over time Shield
+Scammers build trust through friendship, romance, or an offer to help achieve financial goals, typically over a period of weeks or months – known as a “long con.” They may suggest meeting in person but then come up with excuses so it never happens. In romance scams, they’ll often pledge their love quickly. Once a scammer has established a relationship or friendship with you, they may offer their advice on trading, or claim to know about profitable opportunities.
+
+
+They may impersonate legitimate investment professionals or brokerage firms, or say they or someone they know is an “insider” who can provide valuable trading recommendations.
+
+
+Scammers may also steer you towards investments involving crypto assets. You may think you’re buying into a crypto asset investment when you’re actually just sending money directly to their accounts or wallets.
+
+
+They often use fake testimonials to convince you that others have invested and made money. Some scammers pay people to post fake online reviews or appear in videos falsely claiming they got rich from an investment. Scammers may also use altered images or videos to lead you to believe that others have made money on their platform. New artificial intelligence (AI) technologies can make these images and videos convincingly realistic.  
+
+
+Scammers steal money from you — often through fake investments Running
+Scammers may direct you to a legitimate looking (but fake) website or to a popular mobile app. Just because an app is available on a well-known app store doesn’t mean that the app itself, or the activities conducted within it, are legitimate. Scammers can lead you to believe you are doing well trading by sending fake screenshots, showing fake trading information, or manipulating your online account to make it appear that the “investments” and “earnings” are “legitimate.”
+
+
+They may tell you to wire cash or obtain crypto assets— such as bitcoin, ether, or tether — at a bitcoin ATM (or kiosk) or through a crypto asset platform in order to make investment deposits. If you wire money outside of the U.S. for an investment that turns out to be a scam, you will likely never see your money again.
+
+
+Scammers may ask for more money to get funds “released.”
+They may ask you to invest larger sums of money. However, when you try to withdraw your funds, the scammer will come up with an excuse why it isn't possible, say more money is required, or tell you for the first time that you must pay more to cover fees or taxes. Frequently, you will never recover your investment or any “profits,” so paying additional funds only causes you to lose more money.
+
+
+After breaking off contact with you, the scammer will reach out to you pretending to be someone else, such as a representative from a government regulator, law firm, or some other entity that has supposedly recovered your funds. Scammers may send you phony paperwork and eventually demand an upfront payment to release funds.

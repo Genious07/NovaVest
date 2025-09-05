@@ -61,7 +61,7 @@ The NovaVest frontend is a modern, responsive web application designed to bring 
 
 ## Tech Stack
 
-  * **AI Model:** Qwen3-0.6B, fine-tuned with LoRA/PEFT
+  * **AI Model:** fine-tuned with LoRA/PEFT
   * **Frontend:**
       * Next.js (App Router)
       * React
